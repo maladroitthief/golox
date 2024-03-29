@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/maladroitthief/golox/main/pkg/lox"
+	"github.com/maladroitthief/golox/main/internal/lox"
 )
 
 func main() {

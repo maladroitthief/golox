@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/maladroitthief/golox/main/pkg/scanner"
+	"github.com/maladroitthief/golox/main/internal/scanner"
 )
 
 type Lox struct {
